@@ -137,4 +137,13 @@ MIT
 ## Citation
 
 If you use or adapt this code, please cite the repository.
-
+```
+@software{MIDAS_MF_Models,
+  author = {Francesco, Coghi and Min, Zhang},
+  month = {2},
+  title = {{MIDAS Mixed-Frequency Models for Labour Market Forcasting}},
+  url = {https://github.com/F-Coghi/midas-ml-project},
+  version = {1.0.0},
+  year = {2026}
+}
+```
