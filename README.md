@@ -137,15 +137,4 @@ MIT
 ## Citation
 
 If you use or adapt this code, please cite the repository.
-```
-@article{ghysels2006predicting,
-  title={Predicting volatility: getting the most out of return data sampled at different frequencies},
-  author={Ghysels, Eric and Santa-Clara, Pedro and Valkanov, Rossen},
-  journal={Journal of Econometrics},
-  volume={131},
-  number={1-2},
-  pages={59--95},
-  year={2006},
-  publisher={Elsevier}
-}
-```
+
